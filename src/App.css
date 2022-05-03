@@ -1,5 +1,17 @@
 .App {
   text-align: center;
+  padding: 5px;
+}
+
+button {
+  margin: 10px;
+}
+table th, td {
+  border: 1px solid;
+}
+table img{
+  height: 100px;
+  width: auto;
 }
 
 .App-logo {
